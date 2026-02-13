@@ -11,17 +11,6 @@ A simple and complete **Sentiment Analysis Web Application** built using **Pytho
 - Real-time sentiment prediction  
 - Interactive Streamlit UI  
 
----
-
-## 📁 Project Structure
-sentiment_streamlit_app/
-├── train_model.py
-├── streamlit_app.py
-├── model.pkl
-├── vectorizer.pkl
-├── requirements.txt
-└── readme.md
-
 
 ---
 
